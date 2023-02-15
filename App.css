@@ -1,0 +1,28 @@
+.firstword{
+  background-color: orange;
+width:40px;
+height:30px;
+text-align: center;
+font-size: larger;
+
+}
+
+.fontaw{
+  font-size: 15px;
+}
+
+.fontcheck{
+  background-color: aquamarine;
+  height:25px;
+  text-align: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.backcard{
+  background-color: gainsboro;
+}
+
+.bgcolor{
+  background-color: none;
+}
